@@ -134,6 +134,10 @@ button {
     margin-left: 00%;
 }
 
+body {
+    zoom: 90%;
+}
+
 button:hover,
 h1:hover {
     transform: scale(1.1);
